@@ -1,0 +1,4 @@
+{
+	"mongoURI":"mongodb+srv://vishal1_first:jdYD7H3Qmtf3aSVR@cluster0-f5ozf.mongodb.net/natoursone?retryWrites=true&w=majority"
+   ,"jwtSecret":"jwtSecret"
+}
