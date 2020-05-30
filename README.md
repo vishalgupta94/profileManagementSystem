@@ -1,4 +1,4 @@
-its a demonstration to show a MERN stack build with redux hooks and express.
+its a demonstration to show a MERN stack build with redux ,hooks and express.
 
 to make it work.
 for the config folder please give us own mongodb atlas link 
